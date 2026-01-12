@@ -1,0 +1,10 @@
+reverse/FILCOAssistSetup_2.0.97.exe
+reverse/FILCOAssistSetup_2.0.97.zip
+reverse/filco.cab
+reverse/msi_extracted/
+reverse/cab_extracted/
+reverse/extractions/
+reverse/extracted/
+__pycache__/
+*.pyc
+.DS_Store
